@@ -34,7 +34,10 @@ Le dépôt contient un `render.yaml` pour créer un site statique. La variable `
 ## Ressources et documentation
 
 - React : <https://react.dev/learn>
+- Context React (`useContext`) : <https://react.dev/reference/react/useContext>
 - Vite : <https://vite.dev/guide/>
+- Manuel TypeScript : <https://www.typescriptlang.org/docs/handbook/intro.html>
 - React Router : <https://reactrouter.com/start/declarative/routing>
 - API Fetch du navigateur : <https://developer.mozilla.org/fr/docs/Web/API/Fetch_API>
 - Stockage de session : <https://developer.mozilla.org/fr/docs/Web/API/Window/sessionStorage>
+- Déploiement d'un site statique sur Render : <https://render.com/docs/static-sites>
