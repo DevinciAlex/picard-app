@@ -2,6 +2,13 @@
 
 Frontend React, Vite et TypeScript de l'application Picard.
 
+## Liens du rendu
+
+- Dépôt GitHub : <https://github.com/DevinciAlex/picard-app>
+- Application publique : <https://picard-app.onrender.com>
+- API Symfony utilisée : <https://picard-api.onrender.com>
+- Vidéo de démonstration : <https://youtu.be/B-UpZasggjU>
+
 ## Développement local
 
 ```bash
