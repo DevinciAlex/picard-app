@@ -17,7 +17,7 @@ function Navbar() {
     <nav className="app-nav" aria-label="Navigation principale">
       <div className="nav-shell">
         <Link className="brand" to="/products" aria-label="Picard">
-          <span className="brand-mark">PICARD</span>
+          <span className="brand-mark">Picard</span>
         </Link>
 
         <div className="nav-links">

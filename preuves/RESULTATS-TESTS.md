@@ -1,7 +1,5 @@
 # Résultats des vérifications
 
-Date : 31 août 2026
-
 - ESLint : réussi.
 - Compilation TypeScript (`tsc -b`) : réussie.
 - Build Vite de production : réussi, 93 modules transformés.
